@@ -1,2 +1,2 @@
-# CoolMath
-Fun Math Challenges!
+# ShorterVr Home Page!
+Emails and Info etc...
